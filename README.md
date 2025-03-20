@@ -1,12 +1,61 @@
-# React + Vite
+# 📌 CRM Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+_A modern, user-friendly CRM dashboard built with React.js and Tailwind CSS._
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the deployed version here: [CRM Dashboard Live](https://your-vercel-app-url.vercel.app)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Project Overview
+
+The CRM Dashboard is designed to help users manage customer data, view business reports, and automate workflows. Built with modern technologies, it ensures optimal performance and a responsive user interface across various devices.
+
+---
+
+## 🛠️ Tech Stack
+
+✅ **Frontend**: React.js (Vite)  
+✅ **Styling**: Tailwind CSS  
+✅ **Charting**: Recharts  
+✅ **Mock Data**: Faker.js  
+✅ **Version Control**: Git & GitHub  
+✅ **Deployment**: Vercel
+
+---
+
+## 🚀 Features
+
+✔️ **Dashboard**: Interactive statistics and charts  
+✔️ **Customer Management**: CRUD operations for customer data  
+✔️ **Reports**: Placeholder for business reports  
+✔️ **Automation**: Placeholder for workflow automation  
+✔️ **Responsive Design**: Optimized for desktop & mobile
+
+---
+
+## 📦 Installation
+
+Follow these steps to set up the project locally:
+
+1️⃣ Clone the repository:
+
+```bash
+git clone https://github.com/Restu-Armando/CRM-Dashboard.git
+cd CRM-Dashboard
+```
+
+2️⃣ Install dependencies:
+
+```bash
+npm install
+```
+
+3️⃣ Run the development server:
+
+```bash
+npm run dev
+```
+
+4️⃣ Open your browser and go to http://localhost:5173
