@@ -4,7 +4,7 @@ _A modern, user-friendly CRM dashboard built with React.js and Tailwind CSS._
 
 ## 🚀 Live Demo
 
-Check out the deployed version here: [CRM Dashboard Live](https://your-vercel-app-url.vercel.app)
+Check out the deployed version here: [CRM Dashboard Live](https://crm-dashboard-cyan.vercel.app/)
 
 ---
 
